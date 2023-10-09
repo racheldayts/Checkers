@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Stats
+comment1.params=p1\ p2
+comment1.target=Stats(java.lang.String,\ java.lang.String)
+comment2.params=winner
+comment2.target=void\ updateScore(int)
+numComments=3
